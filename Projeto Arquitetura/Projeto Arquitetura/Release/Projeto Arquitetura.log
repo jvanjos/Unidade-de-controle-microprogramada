@@ -1,6 +1,6 @@
 ﻿  Projeto Arquitetura.cpp
-Projeto Arquitetura.cpp(33): warning C4018: '<': incompatibilidade de signed/unsigned
-Projeto Arquitetura.cpp(94): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto Arquitetura.cpp(37): warning C4018: '<': incompatibilidade de signed/unsigned
+Projeto Arquitetura.cpp(103): warning C4018: '<': incompatibilidade de signed/unsigned
   Gerando código
   1 of 260 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
